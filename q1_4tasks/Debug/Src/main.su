@@ -1,0 +1,5 @@
+../Src/main.c:32:6:vLedTask1	16	static
+../Src/main.c:43:6:vLedTask2	16	static
+../Src/main.c:54:6:vLedTask3	16	static
+../Src/main.c:65:6:vLedTask4	16	static
+../Src/main.c:79:5:main	16	static
